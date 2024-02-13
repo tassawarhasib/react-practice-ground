@@ -6,11 +6,14 @@ This repository contains a collection of React components that I've created for 
 
 ### Components
 
-1. **Stepper Component**: A versatile stepper component that allows users to navigate through a series of steps. It includes progress tracking and dynamic step completion indicators.
+1. **Study Hour Counter Project**: A micro project that allows users to count their study hour count. It includes progress tracking.
+   
+2.  **Stepper Component**: A versatile stepper component that allows users to navigate through a series of steps. It includes progress tracking and dynamic step completion indicators.
 
-2. **Card Component**: A reusable card component for displaying user data fetched from an API. It includes features like image display, name, gender, and contact information.
+3. **Card Component**: A reusable card component for displaying user data fetched from an API. It includes features like image display, name, gender, and contact information.
 
-3. **Footer Component**: A simple footer component created using Tailwind CSS, providing a basic layout for website footers.
+4. **Footer Component**: A simple footer component created using Tailwind CSS, providing a basic layout for website footers.
+5. **Like Button Component**: This React component integrates a like button feature with an API backend. With a 50% failure chance, it gracefully handles errors to ensure smooth user experience.
 
 ### Purpose
 
